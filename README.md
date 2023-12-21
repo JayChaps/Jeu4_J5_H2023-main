@@ -2,13 +2,14 @@
 Ce LISEZ-MOI explique comment faire fonctionner le projet.
 
 ### Ce repositoire contient tous les fichiers du projet Unity. ###
-* **TITRE DU JEU** est un jeu de plateformes produit dans le cadre du cours Jeu vidéo 4 au Cégep de Saint-Jérôme (H2023).
+* **Empoulpade** est un jeu de plateformes produit dans le cadre du cours Jeu vidéo 4 au Cégep de Saint-Jérôme (H2023).
 
 ### Version de Unity ###
 * Ce projet a été conçu pour la version 2022.2.1 de Unity.
 
-### Consignes aux contributeurs ###
-* Veuillez développer les nouvelles fonctionnalités sur vos branches personnelles avant de les fusionner à la branche principale (*main*)
+### À propos ###
+* Ce projet à été réalisé par Jeremy Chaput (programmation) et Olivier Daigneault (art).
 
 ### Contact ###
-* https://tim-cstj.ca/
+* [Jeremy Chaput](https://jeremy-chaput.myportfolio.com)
+* [Olivier Daigneault](https://olivier-daigneault.netlify.app)
