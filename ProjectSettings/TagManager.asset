@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Joyaux
+  - Bonus
+  - Tilemap
+  - Ennemi
+  - Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Perso
+  - Water
+  - UI
+  - TuilesBloc
+  - Objets
+  - Joyaux
+  - ColliderAmesTuiles
+  - ProjectileAmis
+  - CollidersPourWalljump
+  - ProjectileTriple
+  - Ennemi
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2135291901
+    locked: 0
+  - name: Porte
+    uniqueID: 729102069
+    locked: 0
+  - name: Porte+
+    uniqueID: 2881083483
+    locked: 0
+  - name: TuilesFond
+    uniqueID: 3823906681
+    locked: 0
+  - name: TuilesDevant
+    uniqueID: 266683019
+    locked: 0
+  - name: Perso
+    uniqueID: 886307049
+    locked: 0

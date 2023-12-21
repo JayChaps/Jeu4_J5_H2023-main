@@ -1,0 +1,33 @@
+RACOON NOISE	(ennemy default)
+AntumDeluge
+https://opengameart.org/node/132709
+____________________________________________________________
+
+SCRATCH NOISE	(ennemy default)
+farfadet46
+https://opengameart.org/content/scratch-vocal-sound
+____________________________________________________________
+
+PAPER NOISE	(ennemy default)
+Vinrax
+https://opengameart.org/content/paper-crush-sounds
+____________________________________________________________
+
+WEIRD AOUGHT NOISE	(hurt or death noise)
+omegagreg
+https://opengameart.org/content/stonerockorwoodmovednotick
+____________________________________________________________
+
+SNAP	(ennemy default)
+Vinrax
+https://opengameart.org/content/snap-of-the-fingers-sounds
+____________________________________________________________
+
+DOLPHIN NOISE	(ennemy default and death)
+AntumDeluge
+https://opengameart.org/content/dolphin-sounds
+____________________________________________________________
+
+RAIN NOISE (sand geser & glissement [low])
+OveMelaa
+https://opengameart.org/content/rain-ambient-not-loopable-2-versions-available

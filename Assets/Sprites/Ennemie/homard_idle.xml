@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="homard_idle.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence persoIdleCentre 10000" x="4" y="4" width="151" height="185" pivotX="80.95" pivotY="100.7"/>
+	<SubTexture name="Occurrence persoIdleCentre 10001" x="159" y="4" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10002" x="314" y="4" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10003" x="469" y="4" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10004" x="624" y="4" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10005" x="779" y="4" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10006" x="934" y="4" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10007" x="1089" y="4" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10008" x="1244" y="4" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10009" x="1399" y="4" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10010" x="1554" y="4" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10011" x="1709" y="4" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10012" x="1864" y="4" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10013" x="4" y="193" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10014" x="159" y="193" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10015" x="314" y="193" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10016" x="469" y="193" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10017" x="624" y="193" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10018" x="779" y="193" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10019" x="934" y="193" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10020" x="1089" y="193" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10021" x="1244" y="193" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10022" x="1399" y="193" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10023" x="1554" y="193" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10024" x="1709" y="193" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10025" x="1864" y="193" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10026" x="4" y="382" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10027" x="159" y="382" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10028" x="314" y="382" width="151" height="185"/>
+	<SubTexture name="Occurrence persoIdleCentre 10029" x="469" y="382" width="151" height="185"/>
+</TextureAtlas>

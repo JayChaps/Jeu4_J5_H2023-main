@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crabe_animation_course.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence crabe_course_point_centre 10000" x="4" y="4" width="241" height="243" pivotX="129.95" pivotY="117.6"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10001" x="249" y="4" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10002" x="494" y="4" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10003" x="739" y="4" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10004" x="984" y="4" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10005" x="1229" y="4" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10006" x="4" y="251" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10007" x="249" y="251" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10008" x="494" y="251" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10009" x="739" y="251" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10010" x="984" y="251" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10011" x="1229" y="251" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10012" x="4" y="498" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10013" x="249" y="498" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10014" x="494" y="498" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10015" x="739" y="498" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10016" x="984" y="498" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10017" x="1229" y="498" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10018" x="4" y="745" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10019" x="249" y="745" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10020" x="494" y="745" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10021" x="739" y="745" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10022" x="984" y="745" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10023" x="1229" y="745" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10024" x="4" y="992" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10025" x="249" y="992" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10026" x="494" y="992" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10027" x="739" y="992" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10028" x="984" y="992" width="241" height="243"/>
+	<SubTexture name="Occurrence crabe_course_point_centre 10029" x="1229" y="992" width="241" height="243"/>
+</TextureAtlas>

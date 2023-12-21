@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crabe_animation_idle.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence crabe_idle_point_centre 10000" x="4" y="4" width="186" height="241" pivotX="89.05" pivotY="118.6"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10001" x="194" y="4" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10002" x="384" y="4" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10003" x="574" y="4" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10004" x="764" y="4" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10005" x="954" y="4" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10006" x="1144" y="4" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10007" x="1334" y="4" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10008" x="4" y="249" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10009" x="194" y="249" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10010" x="384" y="249" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10011" x="574" y="249" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10012" x="764" y="249" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10013" x="954" y="249" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10014" x="1144" y="249" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10015" x="1334" y="249" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10016" x="4" y="494" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10017" x="194" y="494" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10018" x="384" y="494" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10019" x="574" y="494" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10020" x="764" y="494" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10021" x="954" y="494" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10022" x="1144" y="494" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10023" x="1334" y="494" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10024" x="4" y="739" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10025" x="194" y="739" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10026" x="384" y="739" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10027" x="574" y="739" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10028" x="764" y="739" width="186" height="241"/>
+	<SubTexture name="Occurrence crabe_idle_point_centre 10029" x="954" y="739" width="186" height="241"/>
+</TextureAtlas>

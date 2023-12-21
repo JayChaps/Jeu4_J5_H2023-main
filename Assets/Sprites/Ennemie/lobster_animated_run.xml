@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lobster_animated_run.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence persoCourseCentre 10000" x="4" y="4" width="185" height="187" pivotX="103.4" pivotY="92.05"/>
+	<SubTexture name="Occurrence persoCourseCentre 10001" x="193" y="4" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10002" x="382" y="4" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10003" x="571" y="4" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10004" x="760" y="4" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10005" x="949" y="4" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10006" x="1138" y="4" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10007" x="1327" y="4" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10008" x="1516" y="4" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10009" x="1705" y="4" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10010" x="4" y="195" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10011" x="193" y="195" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10012" x="382" y="195" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10013" x="571" y="195" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10014" x="760" y="195" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10015" x="949" y="195" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10016" x="1138" y="195" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10017" x="1327" y="195" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10018" x="1516" y="195" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10019" x="1705" y="195" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10020" x="4" y="386" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10021" x="193" y="386" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10022" x="382" y="386" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10023" x="571" y="386" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10024" x="760" y="386" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10025" x="949" y="386" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10026" x="1138" y="386" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10027" x="1327" y="386" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10028" x="1516" y="386" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10029" x="1705" y="386" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10030" x="4" y="577" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10031" x="193" y="577" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10032" x="382" y="577" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10033" x="571" y="577" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10034" x="760" y="577" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10035" x="949" y="577" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10036" x="1138" y="577" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10037" x="1327" y="577" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10038" x="1516" y="577" width="185" height="187"/>
+	<SubTexture name="Occurrence persoCourseCentre 10039" x="1705" y="577" width="185" height="187"/>
+</TextureAtlas>

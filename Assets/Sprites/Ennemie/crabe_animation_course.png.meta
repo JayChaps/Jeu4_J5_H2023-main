@@ -1,0 +1,808 @@
+fileFormatVersion: 2
+guid: 17bc4bd58ea4c684880203793b743b30
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1080
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e407b6c0f7e8e80800000000000000
+      internalID: -8174456582312014278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10001
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1080
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad716fbcbba18b9b0800000000000000
+      internalID: -5064268387095013414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10002
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1080
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b595423755719440800000000000000
+      internalID: 4940859283568170425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10003
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1080
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8ba594411525750800000000000000
+      internalID: 6292180776961882282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10004
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1080
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3352153048c7b4b20800000000000000
+      internalID: 3119724073317377331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10005
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1080
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1211677335679f9f0800000000000000
+      internalID: -434185789279694559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10006
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 833
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730c2ae3cf094dc10800000000000000
+      internalID: 2077444741181653047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10007
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 833
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b34d77d76385e10800000000000000
+      internalID: 2186557531597585255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10008
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 833
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b275e69df68257630800000000000000
+      internalID: 3924087111177623339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10009
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 833
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64c4a154e98ffed0800000000000000
+      internalID: -2378030464513031061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10010
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 833
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cc997902adf8e70800000000000000
+      internalID: 9119747603965791364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10011
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 833
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60999b86a37d8ca70800000000000000
+      internalID: 8847558113834408198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10012
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 586
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad51fa25c99302360800000000000000
+      internalID: 7142772352574494170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10013
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 586
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f75642f29172850800000000000000
+      internalID: 6352073489694162745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10014
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 586
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b52de8dd3a481a0800000000000000
+      internalID: -6808136564698096848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10015
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 586
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcf2af0a50721880800000000000000
+      internalID: -8641721202858853198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10016
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 586
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c873f337e7f69040800000000000000
+      internalID: 4654179837315086531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10017
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 586
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837068d9eab349e90800000000000000
+      internalID: -7019920298010605768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10018
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 339
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b90c5340e182a6d0800000000000000
+      internalID: -2980677203163084367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10019
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 339
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d6c37ede0299db0800000000000000
+      internalID: -4784756922945606291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10020
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 339
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8d208e3d5f1e2c0800000000000000
+      internalID: -4403968670112229161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10021
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 339
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c556a32c93723cfd0800000000000000
+      internalID: -2322969853767817892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10022
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 339
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76a16546ca8be3d0800000000000000
+      internalID: -3176292528007567749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10023
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 339
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298aefc1583dae230800000000000000
+      internalID: 3668977415117252754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10024
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 92
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb2d13441a889840800000000000000
+      internalID: 5231082786820795384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10025
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 92
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5de2b6e098098eb0800000000000000
+      internalID: -4717229716255085219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10026
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 92
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c17e8b254e99b50800000000000000
+      internalID: 6600557772828777495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10027
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 92
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a46565709683750800000000000000
+      internalID: 6284888760229710415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10028
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 92
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e00b20dedf67410800000000000000
+      internalID: 1474645122404585085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence crabe_course_point_centre 10029
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 92
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53921163, y: 0.5160494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b571c66c19e8d8a40800000000000000
+      internalID: 5372106687273244507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence crabe_course_point_centre 10016: 4654179837315086531
+      Occurrence crabe_course_point_centre 10027: 6284888760229710415
+      Occurrence crabe_course_point_centre 10005: -434185789279694559
+      Occurrence crabe_course_point_centre 10004: 3119724073317377331
+      Occurrence crabe_course_point_centre 10023: 3668977415117252754
+      Occurrence crabe_course_point_centre 10009: -2378030464513031061
+      Occurrence crabe_course_point_centre 10013: 6352073489694162745
+      Occurrence crabe_course_point_centre 10003: 6292180776961882282
+      Occurrence crabe_course_point_centre 10001: -5064268387095013414
+      Occurrence crabe_course_point_centre 10026: 6600557772828777495
+      Occurrence crabe_course_point_centre 10012: 7142772352574494170
+      Occurrence crabe_course_point_centre 10022: -3176292528007567749
+      Occurrence crabe_course_point_centre 10024: 5231082786820795384
+      Occurrence crabe_course_point_centre 10015: -8641721202858853198
+      Occurrence crabe_course_point_centre 10019: -4784756922945606291
+      Occurrence crabe_course_point_centre 10007: 2186557531597585255
+      Occurrence crabe_course_point_centre 10029: 5372106687273244507
+      Occurrence crabe_course_point_centre 10002: 4940859283568170425
+      Occurrence crabe_course_point_centre 10010: 9119747603965791364
+      Occurrence crabe_course_point_centre 10017: -7019920298010605768
+      Occurrence crabe_course_point_centre 10021: -2322969853767817892
+      Occurrence crabe_course_point_centre 10006: 2077444741181653047
+      Occurrence crabe_course_point_centre 10028: 1474645122404585085
+      Occurrence crabe_course_point_centre 10008: 3924087111177623339
+      Occurrence crabe_course_point_centre 10011: 8847558113834408198
+      Occurrence crabe_course_point_centre 10018: -2980677203163084367
+      Occurrence crabe_course_point_centre 10014: -6808136564698096848
+      Occurrence crabe_course_point_centre 10020: -4403968670112229161
+      Occurrence crabe_course_point_centre 10000: -8174456582312014278
+      Occurrence crabe_course_point_centre 10025: -4717229716255085219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 676523d2b51016449be9dc74e9aa90c9, type: 3}
+  m_Name: Perso
+  m_EditorClassIdentifier: 
+  _niveauIni: 1
+  _argentIni: 0
+  _niveau: 1
+  _argent: 1
+  _bonus: 0
+  _degats: 1
+  _bonusIni: 0
+  _degatsIni: 1
+  _possedeSandales: 0
+  _secondes: 115
+  _secondesInitiales: 120
+  _vie: 100
+  _vieMax: 50
+  _inventaire: []
